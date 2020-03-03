@@ -1,2 +1,2 @@
 # SupremeBot
-Quickly purchase items from Supreme New York
+Purchase Supreme Items before they are sold out.
